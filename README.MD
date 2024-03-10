@@ -90,7 +90,7 @@
 
 
 ## Использование проекта
-Вся информация о работе представлена в [jupyter-ноутбуке Project-1_Data_Cleaning.ipynb](Project-1_Data_Cleaning.ipynb).
+Вся информация о работе представлена в [Project-2_Vacancies_analysis.ipynb](./Project-2_Vacancies_analysis.ipynb).
 
 ## Автор
 [Татьяна Артамошина](https://t.me/Tatiana_Artamoshina)
